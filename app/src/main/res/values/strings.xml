@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Auto2Fapp</string>
+    <string name="no1">2 3 5 7 9 8</string>
+    <string name="site">www.MyAwesomeSite.com</string>
+    <string name="email">email@domain.ext</string>
+    <string name="no2pass">3 4 6 0 2 5</string>
 </resources>
